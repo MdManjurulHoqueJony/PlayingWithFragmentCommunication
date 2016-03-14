@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">"Playing With Fragment Communication "</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="click_me">Click Me</string>
+    <string name="counter">counter</string>
+    <string name="msg1">"Button was clicked "</string>
+    <string name="msg2">" times"</string>
+    <string name="data">data</string>
+</resources>
